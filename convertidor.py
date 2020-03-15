@@ -1,6 +1,0 @@
-print("Digite el numero que desea convertir")
-numero = input()
-print("Digite la base donde se encuentra el numero")
-baseOrigen = int(input())
-print("Digite la base a la que desea convertir")
-baseDestino = int(input())
